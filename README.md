@@ -36,13 +36,10 @@ Welcome to the Units Converter App repository! This Android app allows you to ea
 
 ## Installation
 
-1. Clone the repository:
-    ```bash
-   git clone https://github.com/your-username/units-converter-android.git
-
+1. Clone the repository: `git clone https://github.com/Kushil7145/OIBSIP_Task3.git`
 
 2. Open the project in Android Studio.
-
+   
 3. Build and run the app on an Android emulator or device.
 
 ## Usage
